@@ -1,0 +1,20 @@
+{
+  "name": "ddniny.github.io",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Danni Wu"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ddniny/ddniny.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
